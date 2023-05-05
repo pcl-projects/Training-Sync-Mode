@@ -1,0 +1,11 @@
+# model_name: ps_active ps_idle wrk_active wrk_idle
+alexnet: 110 200 200 110
+resnet20: 191 261 261 191
+resnet56: 447 567 567 447
+vgg13: 238 308 308 238
+vgg16: 295 365 365 295
+densenet121: 1460 900 900 1460
+googlenet: 865 1175 1175 865
+mobilenet: 459 609 609 459
+lstm: 205 475 475 205
+transformer: 170 480 480 170
