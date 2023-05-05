@@ -2,7 +2,7 @@
 
 This repo contains the implementation code for STAR.
 
-/ps is for PS architecure and /all-reduce is for All-reduce architecture.
+/ps/ is for PS architecure and /all_reduce/ is for All-reduce architecture.
 
 The list below shows the main components for each method.
 - **Straggler prediction**: code_for_training_data/train.py (class LstmRegr)
